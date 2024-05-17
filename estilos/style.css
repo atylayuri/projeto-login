@@ -27,7 +27,7 @@ main {
 }
 
 section#login {
-    width: 200px;
+    width: 250px;
     height: 500px;
     background-color: white;
     border-radius: 20px;
@@ -44,7 +44,7 @@ section#login {
     display: block;
     background: #5f2c82 url(../imagens/padrão.jpg) no-repeat; 
     background-position: left bottom;
-    height: 200px;
+    height: 210px;
     background-size: cover;
 }
 
